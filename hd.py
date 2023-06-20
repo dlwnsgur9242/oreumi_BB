@@ -1,0 +1,1 @@
+print("hayangdoombi입니다")
